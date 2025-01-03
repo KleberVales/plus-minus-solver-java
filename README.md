@@ -13,3 +13,11 @@ The "Plus Minus" exercise asks you to calculate and display the ratios of positi
 ## Input Format:
 1. The first line contains an integer, n, the size of the array.
 2. The second line contains n space-separated integers representing the elements of the array.
+
+## Output Format:
+
+- Print three decimal values, each on a new line:
+  1. The proportion of positive values in the array.
+  2. The proportion of negative values in the array.
+  3. The proportion of zero values in the array.
+  4. Each value should be printed to six decimal places.
