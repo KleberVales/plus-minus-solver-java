@@ -21,3 +21,7 @@ The "Plus Minus" exercise asks you to calculate and display the ratios of positi
   2. The proportion of negative values in the array.
   3. The proportion of zero values in the array.
   4. Each value should be printed to six decimal places.
+ 
+## Constraints:
+
+The size of the array (n) and its elements will always allow for calculation without overflow or underflow.
